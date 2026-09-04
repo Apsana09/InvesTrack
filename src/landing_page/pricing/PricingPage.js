@@ -1,8 +1,14 @@
 import React from 'react'
+import Hero from "./Hero"
+import Broker from "./Broker"
 
 const Pricing = () => {
   return (
-    <h1>Pricing</h1>
+    <>
+    <Hero/>
+    <Broker/>
+    </>
+  
   )
 }
 
