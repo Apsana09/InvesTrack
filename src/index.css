@@ -38,3 +38,19 @@ footer a{
   color:grey;
   font-size: 15px;
 }
+
+
+#supportHero{
+  background-color: #397DD0;
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin:0 120px;
+}
