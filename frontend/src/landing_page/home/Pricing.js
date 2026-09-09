@@ -18,7 +18,7 @@ const Pricing = () => {
                 <br/> direct mutual funds</p>
             </div>
             <div className='col p-3 border'>
-              <h1 className='mb-3 fs-3'><i class="fa fa-inr" aria-hidden="true" ></i> 20 </h1>
+              <h1 className='mb-3 fs-3'><i class="fa fa-inr" aria-hidden="true" ></i> 10 </h1>
               <p> Intraday and F&O</p>
             </div>
           </div>
